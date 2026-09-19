@@ -2,7 +2,7 @@
 
 A modern, high-performance, and responsive landing page for **9 Gates Capital** — a premier global private investment firm specializing in growth capital, real estate, energy transition, private equity, and structured finance.
 
-🌐 **Live Website:** [https://www.capnexgen.com/](https://www.capnexgen.com/)  
+🌐 **Live Website:** [https://9-gates-capital.vercel.app](https://9-gates-capital.vercel.app)  
 🚀 **Deployment Platform:** Deployed via [Vercel](https://vercel.com/)
 
 ---
@@ -119,5 +119,5 @@ vercel deploy --prod
 ## ✨ Credits & Ownership
 
 - **Project Lead & Developer:** [Karan Usewar](https://www.linkedin.com/in/karanusewar/)
-- **Live Domain:** [https://www.capnexgen.com/](https://www.capnexgen.com/)
+- **Live Vercel Deployment:** [https://9-gates-capital.vercel.app](https://9-gates-capital.vercel.app)
 - **Deployment Platform:** [Vercel](https://vercel.com/)
