@@ -1,0 +1,8 @@
+{
+  "name": "Capnex 9Gates Capital",
+  "description": "Global Funding & Investment Platform. Access strategic capital, investor networks, and advisory support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
